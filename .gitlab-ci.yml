@@ -1,0 +1,4 @@
+image: ruby: 2.5
+
+job:
+  script: ls
